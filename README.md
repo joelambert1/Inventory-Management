@@ -1,4 +1,4 @@
 # Inventory-Management
-school project that i will improve
+Inventory Management system that stores parts, products with associated parts. Implements searching/sorting data manipulation.
 
-Inventory management system made with javafx, using scenebuilder, custom Java classes for functionality and some CSS
+Inventory management system made using java, fxml, javafx, scenebuilder, and some CSS
