@@ -1,5 +1,4 @@
 # Inventory-Management
-Appointment app is the one that uses SQL not this one!
 
 Inventory Management system that stores parts, products with associated parts. Implements searching/sorting and data manipulation.
 
