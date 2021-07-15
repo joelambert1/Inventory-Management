@@ -1,6 +1,8 @@
 # Inventory-Management
 This is a JavaFX application with a GUI. Made using java, fxml, javafx, scenebuilder
 In this application, you can add/edit parts and products. Each product can have many associated parts.
+
+
 ![1first](https://user-images.githubusercontent.com/23101063/125720568-761253a3-b9f5-41e2-b84d-e1a6102772db.png)
 
 ![2second](https://user-images.githubusercontent.com/23101063/125720578-28ce0764-f050-48f1-aa27-e408ee95fd70.png)
